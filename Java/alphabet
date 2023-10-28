@@ -1,0 +1,7 @@
+public class PrintAlphabet {
+    public static void main(String[] args) {
+        for (char a = 'A'; c <= 'Z'; a++) {
+            System.out.print(a + " ");
+        }
+    }
+}
